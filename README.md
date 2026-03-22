@@ -14,7 +14,7 @@ A real-time fitness tracking system built using Computer Vision.
 - OpenCV
 - MediaPipe
 - NumPy
-- 
+  
 ## Run Locally
 
 ```bash
